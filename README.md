@@ -10,6 +10,9 @@ Tested on Vivado 2018.2.
 
 ---
 
+![Waveform from test cases](waveform.png)
+
+
 ## GitHub Actions Testbench
 
 You can *optionally* enable Actions on your fork.

@@ -12,6 +12,9 @@ Tested on Vivado 2018.2.
 
 ![Waveform from test cases](waveform.png)
 
+## Documentation 
+Lt. Col Trimble assisted me in EI with correctly importing the half adder. I did not realize that I needed to import it as both a source and a simulation source. 
+
 
 ## GitHub Actions Testbench
 
